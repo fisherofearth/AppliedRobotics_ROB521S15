@@ -1,0 +1,86 @@
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\CatapongCV_BouncingDet.exe.config
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_calib3d2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_contrib2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_core2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_features2d2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_flann2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_gpu2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_highgui2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_imgproc2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_legacy2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_ml2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_nonfree2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_objdetect2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_photo2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_stitching2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_superres2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_video2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_videostab2410.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\CatapongCV_BouncingDet.exe
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\CatapongCV_BouncingDet.pdb
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.Util.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\ZedGraph.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.Util.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\ZedGraph.xml
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.csprojResolveAssemblyReference.cache
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.Form1.resources
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.Properties.Resources.resources
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.csproj.GenerateResource.Cache
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.exe
+C:\Users\Fisher\Desktop\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.pdb
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\CatapongCV_BouncingDet.exe.config
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.exe
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.pdb
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_calib3d2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_contrib2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_core2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_features2d2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_flann2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_gpu2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_highgui2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_imgproc2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_legacy2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_ml2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_nonfree2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_objdetect2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_photo2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_stitching2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_superres2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_video2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\opencv_videostab2410.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\CatapongCV_BouncingDet.exe
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\CatapongCV_BouncingDet.pdb
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\ZedGraph.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\Emgu.Util.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\ZedGraph.xml
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.csprojResolveAssemblyReference.cache
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.Form1.resources
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.Properties.Resources.resources
+C:\Users\Fisher\Google Drive\Spring 2015\ROB 521 AppliedRobotics\VisualstudioProj\CatapongCV_BouncingDet\CatapongCV_BouncingDet\obj\Debug\CatapongCV_BouncingDet.csproj.GenerateResource.Cache
